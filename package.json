@@ -1,0 +1,17 @@
+{
+  "name": "perlin",
+  "description": "A Perlin noise generator.",
+  "author": "Andy Burke <aburke@bitflood.org>",
+  "version": "0.0.1",
+  "main" : "./lib/perlin.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andybrk/perlin"
+  },
+  "files": [ "lib" ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "engine": "node >= 0.4.10"
+}
