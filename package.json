@@ -6,7 +6,7 @@
   "main" : "./lib/perlin.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/andybrk/perlin"
+    "url": "https://github.com/andyburke/perlin"
   },
   "files": [ "lib" ],
   "dependencies": {
